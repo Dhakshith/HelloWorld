@@ -12,7 +12,7 @@
   This app says:
 <ol>
 <li>
-  "  Hello World!"
+  "Hello World!"
 </li>
 </ol>
 </li>
