@@ -2,5 +2,5 @@
 HELLO WORLD
 </h1>
 <p style= "font-size:50px">Just another repository by me, Dhakshith</p>
-<hr>
-Base app for programming.
+<br>
+This is a Base app for programming.
