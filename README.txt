@@ -1,11 +1,3 @@
-
-<html>
-  <body>
-    <h1 style="font-size:100px;color:blue-black">
-      HELLO WORLD
-    </h1>
-    <hr/>
-    <p style="font-size:20;color:red">
-      Just another repository by me, Dhakshith Raam
-    <p>
-</html>
+#HELLO WORLD
+<hr>
+Just another repository by me, Dhakshith
