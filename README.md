@@ -19,6 +19,7 @@
 <li>
   Below is a Table:
 </li>
+<br>
 <table>
   <tr>
     <th>id</th>
