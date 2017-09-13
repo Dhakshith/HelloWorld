@@ -8,14 +8,7 @@
 <li>
   This is a HelloWorld app
 </li>
-<li>
-  This app says:
-<ol>
-<li>
-  "Hello World!"
-</li>
-</ol>
-</li>
+
 <li>
   Below is a Table:
 </li>
