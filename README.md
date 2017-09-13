@@ -10,9 +10,9 @@
 </li>
 <li>
   This app says:
-<ul style="list-style-type:none>
+<ol>
 <li>
-  Hello World!
+  "  Hello World!"
 </li>
-</ul>
+</ol>
 </li>
