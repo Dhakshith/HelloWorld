@@ -1,6 +1,0 @@
-# HelloWorld
-My name is Dhakshith<br>
-Just another repository by me, Dhakshith Raam<br>
-This is a HelloWorld app<br>
-This app says:
-<li>Hello World!</li>
