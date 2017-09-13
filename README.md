@@ -10,7 +10,7 @@
 </li>
 <li>
   This app says:
-<ul style="list-style-type:square">
+<ul style="list-style-type:none>
 <li>
   Hello World!
 </li>
