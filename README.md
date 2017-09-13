@@ -16,6 +16,9 @@
 </li>
 </ol>
 </li>
+<li>
+  Below is a Table:
+</li>
 <table>
   <tr>
     <th>id</th>
